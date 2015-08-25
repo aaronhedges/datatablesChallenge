@@ -12,11 +12,11 @@ COMPLETED:
 
 All checkbox/filtering functionality:
 
-Defaults to show all
-Click on a filter - it filters automatically and unchecks the "Show All" option for that column
-Click on a filter again - it continues to build filter options based on regex data
-Unclick all filters or click on "Show All" - shows all items again for that field
-Fitlering capability is additive, across multiple columns.
+- Defaults to show all
+- Click on a filter - it filters automatically and unchecks the "Show All" option for that column
+- Click on a filter again - it continues to build filter options based on regex data
+- Unclick all filters or click on "Show All" - shows all items again for that field
+- Fitlering capability is additive, across multiple columns.
 
 TO DO:
 (Remaining 10-20%)
