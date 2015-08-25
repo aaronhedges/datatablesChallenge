@@ -21,5 +21,5 @@ All checkbox/filtering functionality:
 TO DO:
 (Remaining 10-20%)
 
-Move filter options from header to be within a pop-up / hidden div.
-Debug issues with special characters, such as ' $ ', which is currently causing the salary field to fail. Started work on index.html line 42.
+- Move filter options from header to be within a pop-up / hidden div.
+- Debug issues with special characters, such as ' $ ', which is currently causing the salary field to fail. Started work on index.html line 42.
